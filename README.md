@@ -9,6 +9,16 @@ It was developed as my final project of my computer graphics course using Micros
 - Users can add play with and see how stable fluids react to external stimuli. 
 - Adjustable parameters for viscosity and diffusion.
 ---
+### Regular FLuid with Medium Viscosity
+![Base Fluid](FluidDemo/BaseFluid.gif)
+
+### Regular FLuid with High Viscosity
+![Viscous Fluid](FluidDemo/Viscosity.gif)
+
+### Velocity Lines for fluid
+![Velocity](FluidDemo/VelocityLine.gif)
+
+---
 ### Tech Stack
 - C++ for all simulation and math logic  
 - MFC (Microsoft Foundation Classes) for GUI   
