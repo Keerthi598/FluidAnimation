@@ -12,8 +12,12 @@ It was developed as my final project of my computer graphics course using Micros
 ### Regular FLuid with Low Viscosity
 ![Base Fluid](FluidDemo/BaseFluid.gif)
 
+---
+
 ### Regular FLuid with High Viscosity
 ![Viscous Fluid](FluidDemo/Viscosity.gif)
+
+---
 
 ### Velocity Lines for fluid
 ![Velocity](FluidDemo/VelocityLine.gif)
